@@ -6,7 +6,7 @@ Provides polyfills for as many WHATWG spec interfaces as possible
 
 |      Spec      |    Status   |
 | -------------  | ----------- |
-| HTML           | No Polyfill\* |
+| HTML           | No Polyfill\* (See DOM Spec) |
 | DOM            | [JSDOM](https://github.com/tmpvar/jsdom) |
 | Fullscreen     | No Polyfill\* |
 | Notifications  | No Polyfill\* |
