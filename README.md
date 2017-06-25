@@ -15,7 +15,7 @@ Provides polyfills for as many WHATWG spec interfaces as possible
 | Fetch          | [node-fetch](https://github.com/bitinn/node-fetch) |
 | MIME Sniffing  | No Polyfill  |
 | XMLHttpRequest | No Polyfill  |
-| Compatability  | No Polyfill  |
+| Compatability  | No Polyfill\*  |
 | Console        | [Console](https://nodejs.org/api/console.html) |
 | Storage        | No Polyfill  |
 | Streams        | [Streams](https://github.com/creatorrr/web-streams-polyfill) |
