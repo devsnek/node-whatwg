@@ -10,16 +10,15 @@ Provides polyfills for as many WHATWG spec interfaces as possible
 | DOM            | [JSDOM](https://github.com/tmpvar/jsdom) |
 | Fullscreen     | No Polyfill\* |
 | Notifications  | No Polyfill\* |
-| Encoding       | No Polyfill   |
+| Encoding       | [whatwg-encoding](https://github.com/jsdom/whatwg-encoding) |
 | URL            | [Url](https://nodejs.org/api/url.html#url_the_whatwg_url_api) |
 | Fetch          | [node-fetch](https://github.com/bitinn/node-fetch) |
 | MIME Sniffing  | No Polyfill  |
 | XMLHttpRequest | No Polyfill  |
-| Compatability  | No Polyfill\*  |
+| Compatibility  | No Polyfill\*  |
 | Console        | [Console](https://nodejs.org/api/console.html) |
 | Storage        | No Polyfill  |
 | Streams        | [Streams](https://github.com/creatorrr/web-streams-polyfill) |
-| Books          | No Polyfill\* |
 | Books          | No Polyfill\* |
 | Figures        | No Polyfill\* |
 | Quirks Mode    | No Polyfill\* |

@@ -1,4 +1,5 @@
 var DOM = require('jsdom').JSDOM;
+var Encoding = require('whatwg-encoding');
 var Fetch = require('node-fetch');
 var Streams = require('web-streams-polyfill');
 var Url = require('url').Url;
@@ -9,12 +10,12 @@ module.exports = {
   DOM: DOM,
   Fullscreen: null,
   Notifications: null,
-  Encoding: null,
+  Encoding: Encoding,
   Url: Url,
   Fetch: Fetch,
   MimeSniffing: null,
   XMLHttpRequest: null,
-  Compatability: null,
+  Compatibility: null,
   Console: Console,
   Storage: null,
   Streams: Streams,
