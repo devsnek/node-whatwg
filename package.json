@@ -1,0 +1,22 @@
+{
+  "name": "whatwg",
+  "version": "1.0.0",
+  "description": "Provide as many whatwg spec interfaces as possible",
+  "main": "index.js",
+  "dependencies": {
+    "jsdom": "^11.0.0",
+    "node-fetch": "^1.7.1",
+    "web-streams-polyfill": "^1.3.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devsnek/node-whatwg.git"
+  },
+  "author": "snek <me@gus.host>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devsnek/node-whatwg/issues"
+  },
+  "homepage": "https://github.com/devsnek/node-whatwg#readme"
+}
