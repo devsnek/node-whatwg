@@ -11,7 +11,7 @@ Provides polyfills for as many WHATWG spec interfaces as possible
 | Fullscreen     | No Polyfill\* |
 | Notifications  | No Polyfill\* |
 | Encoding       | [whatwg-encoding](https://github.com/jsdom/whatwg-encoding) |
-| URL            | [Url](https://nodejs.org/api/url.html#url_the_whatwg_url_api) |
+| URL            | [whatwg-url](https://github.com/jsdom/whatwg-url) |
 | Fetch          | [node-fetch](https://github.com/bitinn/node-fetch) |
 | MIME Sniffing  | No Polyfill  |
 | XMLHttpRequest | No Polyfill  |

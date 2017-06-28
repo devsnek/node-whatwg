@@ -2,7 +2,7 @@ var DOM = require('jsdom').JSDOM;
 var Encoding = require('whatwg-encoding');
 var Fetch = require('node-fetch');
 var Streams = require('web-streams-polyfill');
-var Url = require('url').Url;
+var Url = require('whatwg-url');
 var Console = require('console');
 
 module.exports = {
